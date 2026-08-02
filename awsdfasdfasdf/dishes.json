@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "restaurant": "asdasdfasdgfvfv",
+  "branch": "awsdfasdfasdf",
+  "brandName": "asdfasdf",
+  "logo": null,
+  "theme": "dark-elegant",
+  "socials": {},
+  "reviewUrl": "",
+  "updated": "2026-08-02T18:47:31.818Z",
+  "dishes": [
+    {
+      "slug": "asdfasdf",
+      "name": "asdfasdf",
+      "label": "asdfasdf",
+      "order": null
+    }
+  ]
+}
